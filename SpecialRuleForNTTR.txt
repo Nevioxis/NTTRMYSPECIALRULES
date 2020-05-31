@@ -1,0 +1,47 @@
+(Unofficial) Special rule for "No time to relax" game
+
+To make this game be more challenging, I decided to create this rule for fun :)
+
+How to use:
+- Random for 3 unduplicated & nonconflicted special rule for the gameplay
+- If the rule duplicates or conflicts, Random again to replace
+- If the player(s) fail to do the special rule, other players can do the punishment or deduction to he/she as you've agreed
+- If get the rule No.0, Cancel all other special rules occured
+- Rule No. 31 affects once
+- This special rules design for more than 10 weeks gameplay. For 10 weeks gameplay, remove rule No. 8, 25 and 31
+- You can freely optimize this rule as you want
+
+0. Normal Competitive Gameplay (No special rule)
+1. No Magic (play in peaceful mode)
+2. No Magic (play in peaceful mode) + Bot
+3. No Fancy Apartment
+4. No Zombie Magic
+5. No Activities(Culture)
+6. No pressing relax button
+7. No Transportation & No Slowdown
+8. After 8 weeks, every player must buy lotto every week
+9. No Saving
+10. No Investment
+11. No VexCorp Work
+12. Unknown Special MIssion (not reading newspaper)
+13. No Debuff Magic(Stressed Out & Diseased)
+14. No Transportation
+15. No Refrigerator
+16. Only studying in Business
+17. No Lotto
+18. Only change the workplace for once
+19. Only studying in Engineering
+20. No Pet
+21. No Closing Building
+22. Not studying more than Engineering II/Business II
+23. No Furniture and Appliances (except refrigerator)
+24. No Job That Pays More Than 11 USD
+25. After 12 weeks, every player must deposit 100 USD To bank every week & no withdraw & No other deposit
+26. No Exercise
+27. No Slowdown
+28. No study before 4 weeks
+29. No University Work
+30. No University Work for a first job
+31. Add More 2 Extra Special Rules
+32. Eat Only French Fries
+33. Not Eating French Fries
